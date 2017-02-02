@@ -24,3 +24,7 @@ msgstr ""
 #: addons/watches/static/watches/js/watch_toggle.js:32
 msgid "Stop watching board"
 msgstr ""
+
+#: addons/watches/static/watches/js/watch_toggle.js:32
+msgid "Stop watching board"
+msgstr ""
