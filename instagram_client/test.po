@@ -26,5 +26,5 @@ msgid "Stop watching  sflksdflds board"
 msgstr ""
 
 #: addons/watches/static/watches/js/watch_toggle.js:32
-msgid "Stop watchinjlkg board"
+msgid "Stop watchinlkjlkjlkjlkg board"
 msgstr ""
