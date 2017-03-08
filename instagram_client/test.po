@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: addons/watches/static/watches/js/watch_toggle.js:29
-msgid "Watch sdfldskfdskl board"
+msgid "Watch sdfldskf lkfslkdf dskl board"
 msgstr ""
 
 #: addons/watches/static/watches/js/watch_toggle.js:32
