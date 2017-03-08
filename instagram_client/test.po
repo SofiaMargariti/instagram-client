@@ -22,7 +22,7 @@ msgid "Watch sdfldskf lkfslkdf dskl board"
 msgstr ""
 
 #: addons/watches/static/watches/js/watch_toggle.js:32
-msgid "Stop watchin sdlkfskldfg  sflksdflds board"
+msgid "Stop watchin sdlkfskldfg  sflk sdlkfdkl sdflds board"
 msgstr ""
 
 #: addons/watches/static/watches/js/watch_toggle.js:32
