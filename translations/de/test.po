@@ -29,5 +29,5 @@ msgstr "Stop watchin sdlkfskldfg  s lskdflkdsflk sdlkfdkl sdflds board"
 #: addons/watches/static/watches/js/watch_toggle.js:32
 msgid "Stop watcjlkjlkjkl one branch lskdflkds sdflksdflk kjlkjlkg board"
 msgstr ""
-"Stop watcjlkjlkjkl one branch lskdflkds sdflksdflk new translation kjlkjlkg "
-"board"
+"Stop watcjlkjlkjkl one branch lskdflkds sdflksdflk new new translations "
+"kjlkjlkg board"
