@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[new-notif-test.travis-test]
+file_filter = translations/<lang>/test.po
+source_file = instagram_client/test.po
+source_lang = en
+type = PO
+
