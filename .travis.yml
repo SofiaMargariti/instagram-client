@@ -1,0 +1,5 @@
+sudo: false
+language: python
+rvm:
+  - 2.2.2
+script: 'python manage.py test'
