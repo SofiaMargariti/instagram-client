@@ -1,7 +1,5 @@
 sudo: required
 language: python
-env:
-    - 
 script: 'python manage.py test'
 after_success:
   - pip install virtualenv
