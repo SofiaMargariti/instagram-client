@@ -7,3 +7,9 @@ source_file = instagram_client/test.po
 source_lang = en
 type = PO
 
+[new-notif-test.test1po]
+file_filter = locales/<lang>.json
+source_file = instagram_client/test1.po
+source_lang = en
+type = PO
+
