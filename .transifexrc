@@ -1,0 +1,6 @@
+[https://www.transifex.com]
+hostname = https://www.transifex.com
+password =
+token = <%= env['TX_API_TOKEN'] %>
+username = <%= env['TX_USERNAME'] %>
+
