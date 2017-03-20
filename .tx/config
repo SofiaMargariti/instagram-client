@@ -12,4 +12,3 @@ file_filter = locales/<lang>.json
 source_file = instagram_client/test1.po
 source_lang = en
 type = PO
-
