@@ -11,6 +11,4 @@ after_success:
   - tx push -s
 
 before_deploy:
-    branch: 
-        only: master
     - tx pull -a -f
