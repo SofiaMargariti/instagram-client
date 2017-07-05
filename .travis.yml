@@ -12,3 +12,6 @@ after_success:
 
 before_deploy:
     - tx pull -a -f
+
+deploy:
+    skip_cleanup: true
