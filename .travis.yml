@@ -16,5 +16,5 @@ before_deploy:
 deploy:
     skip_cleanup: true
     provider: heroku
-        api_key:
-            secure: "$HEROKU_API_KEY"
+    api_key:
+        secure: "$HEROKU_API_KEY"
