@@ -19,3 +19,5 @@ deploy:
     api_key:
         secure: "$HEROKU_API_KEY"
     app: instagramclientsofia
+    run: 
+        - "./manage.py runserver"
