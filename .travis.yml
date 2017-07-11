@@ -11,7 +11,11 @@ after_success:
   - tx push -s
 
 before_deploy:
+    branch:
+        only:
+            - master
     - tx pull -a -f
+    - ./push.sh
 
 deploy:
     skip_cleanup: true
