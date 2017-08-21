@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: test-asdfsdf\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-12-21 17:59+0000\n"
-"PO-Revision-Date: 2017-08-21 11:34-0400\n"
+"PO-Revision-Date: 2017-08-21 11:41-0400\n"
 "Last-Translator: sofiamargariti <sofiamargariti@hotmail.com>\n"
 "Language-Team: Greek\n"
 "MIME-Version: 1.0\n"
@@ -23,12 +23,12 @@ msgstr ""
 
 #: addons/watches/static/watches/js/watch_toggle.js:29
 msgid "Watch sdfldskf lkfslkdf dskl board"
-msgstr ""
+msgstr "Παρακολουθήστε sdfldskf lkfslkdf dskl Διοικητικού Συμβουλίου"
 
 #: addons/watches/static/watches/js/watch_toggle.js:32
 msgid "Stop watchin sdlkfskldfg  sflk sdlkfdkl sdflds board"
-msgstr ""
+msgstr "Σταματήσει βλέποντας sdlkfskldfg lskdflkdsflk sdlkfdkl sdflds δ.σ."
 
 #: addons/watches/static/watches/js/watch_toggle.js:32
 msgid "Stop watcjlkjlkjkl sdf lkdflskd sdlkfdsfklsdfkl  lskdflkds sdflksdflk kjlkjlkg board"
-msgstr ""
+msgstr "Σταματήστε watcjlkjlkjkl sdf lkdflskd sdlkfdsfklsdfkl lskdflkds sdflksdflk kjlkjlkg Διοικητικού Συμβουλίου"
