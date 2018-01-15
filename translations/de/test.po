@@ -27,5 +27,5 @@ msgid "Stop watchin sdlkfskldfg  s lskdflkdsflk sdlkfdkl sdflds board"
 msgstr "Stop watchin sdlkfskldfg  s lskdflkdsflk sdlkfdkl sdflds board tr"
 
 #: addons/watches/static/watches/js/watch_toggle.js:32
-msgid "Stop one branch kjlkjlkg bla bla bla board"
-msgstr "Stop one branch kjlkjlkg bla bla bla board tr"
+msgid "Stop one branch kjlkjlkg bla bla board"
+msgstr "Stop one branch kjlkjlkg bla bla board tr"
